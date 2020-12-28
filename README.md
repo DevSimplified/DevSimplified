@@ -6,7 +6,3 @@
 - 🤔 I’m looking for help with Students and people who want to learn coding 
 - 💬 Ask me about Java ,Python, AWS
 - 📫 How to reach me: DevelopmentSimplified@gmail.com
-!--
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---!
